@@ -1,5 +1,12 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
+import homework1.Author;
+import homework1.Book;
+
+//public class Main {
+//    public static void main(String[] args){
+//        Author johnStrelecky = new Author("John", "Strelecky");
+//        Book firstBook = new Book("The why cafe", johnStrelecky, 2011);
+//        System.out.println(firstBook);
+//        Book secondBook = new Book("Vingt Mille Lieues Sous les Mers", new Author("Jules", "Verne"), 1870);
+//        firstBook.setPublicationYear(2012);
+//    }
+//}
