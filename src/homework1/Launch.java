@@ -7,5 +7,6 @@ public class Launch {
         System.out.println(firstBook);
         Book secondBook = new Book("Vingt Mille Lieues Sous les Mers", new Author("Jules", "Verne"), 1870);
         firstBook.setPublicationYear(2012);
+        System.out.println(secondBook);
     }
 }
