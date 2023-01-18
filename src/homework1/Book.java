@@ -1,6 +1,7 @@
 package homework1;
 
 import java.util.Objects;
+
 public class Book {
     private final String titleOfTheBook;
     private final Author author;
